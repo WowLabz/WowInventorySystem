@@ -1,0 +1,34 @@
+{
+    "name": "WowInventorySystemInputActions",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "c076d78a-2b19-4b88-94be-451f838b4dec",
+            "actions": [
+                {
+                    "name": "Inventory",
+                    "type": "Button",
+                    "id": "06ed6ba8-9f61-4eff-bfce-c7cb83e4bb42",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "41a16353-9a58-4f5d-b440-2f41e51a78db",
+                    "path": "<Keyboard>/i",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Inventory",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

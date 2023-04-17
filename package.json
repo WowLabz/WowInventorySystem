@@ -1,0 +1,21 @@
+{
+  "name": "com.wowlabz.wow-inventory-system",
+  "displayName": "Wow Inventory System",
+  "version": "0.2.0",
+  "unity": "2021.3",
+  "description": "A custom Inventory System package for Unity projects.",
+  "keywords": [
+    "unity",
+    "custom",
+    "package"
+  ],
+  "author": {
+    "name": "Vinay Vidyasagar",
+    "email": "vinay.vidyasagar@wowlabz.com",
+    "url": "https://www.wowlabz.com"
+  },
+  "dependencies": {
+    "com.unity.visualscripting": "1.8.0"
+  },
+  "unityRelease": "14f1"
+}
